@@ -1,1 +1,11 @@
 Case Number,Case Owner Email,Case Aging,Product Line,Remarks,VR Taken
+CS001,john.doe@company.com,15,Hardware,Initial setup issues resolved,Yes
+CS002,jane.smith@company.com,7,Software,Pending customer response,No
+CS003,mike.wilson@company.com,30,Network,Critical connectivity issue,Yes
+CS004,sarah.jones@company.com,3,Hardware,Replacement parts ordered,No
+CS005,alex.brown@company.com,10,Software,Bug fix in progress,Yes
+CS006,lisa.chen@company.com,5,Network,Configuration completed,Yes
+CS007,david.miller@company.com,20,Hardware,Escalated to L2 support,No
+CS008,emma.taylor@company.com,12,Software,Documentation updated,Yes
+CS009,james.wilson@company.com,8,Network,Security patch applied,Yes
+CS010,rachel.lee@company.com,25,Hardware,Waiting for parts delivery,No
